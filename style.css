@@ -1,0 +1,45 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+#new-item {
+	margin-right: 10px;
+	padding: 5px;
+	border: none;
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+#add-button {
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	padding: 5px 10px;
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+#add-button:hover {
+	background-color: #3E8E41;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+.delete-button {
+	background-color: #f44336;
+	color: white;
+	border: none;
+	padding: 5px 10px;
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+.delete-button:hover {
+	background-color: #da190b;
+}
